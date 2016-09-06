@@ -50,7 +50,7 @@ The code knows that we have a letter and attempts to use boolean expression to c
 
 In our example, it ends up printing "Not the letter y" because letter is set to "x". 
 
-**elif statements**
+**elif statements** <br />
 Having both if and else is wonderful as long as we only need two branches, but life can be made a little easier sometimes with more possible statement the "elif" which is short for "else if".
 
 Like an else statement elif executes when the previous if expression evaluated to false, but is changed because it has an expression that must be true as well. 
