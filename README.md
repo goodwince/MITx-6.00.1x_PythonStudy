@@ -80,7 +80,7 @@ elif False:
   print("Branch 2")
 ```
 
-We execute neither print statement because they're both false. **We only execute each statements branch if they end up being true**. 
+We execute neither print statement because they're both false. **We only execute a branch if we make it to their statement and its expression evaluates to true**. 
 
 Currently we have had only two branches, but now that we have elif we can create more branches. 
 
