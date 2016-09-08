@@ -1,10 +1,46 @@
 # MITx-6.00.1x_PythonStudy
 
 ## Summary
-#### Logical Operators (Boolean Logic)<br />
-Main Operators are "<", ">", ">=" "<=", "!=", "=="
+
+### Types
+So far we have four types
+- Booleans
+- Strings
+- Integers
+- Floats
+
+**Booleans** have either a value of ```True``` or ```False```
+
+**Strings** are any character on our keyboard held together by double quotes or single quotes 
+
+Example: ```"String abc"``` 
+
+**Integers** are numbers just as we learned in math class (-15, 0, 3, 2675, etc)
+
+**Floats** are decimals that we learned in math (0.0, 5.876, -3300.182, etc)
+
+###Math
+- Truncation with integers
+- Division with floats
+- Addition of floats, integers, strings
+
+
 [](TODO: Substring, index in string, string manipulation)
-<br />**Branching** <br/>
+### Logical Operators (Boolean Logic) & Branching <br/>
+
+Main Operators are "<", ">", ">=" "<=", "!=", "=="
+
+These operators are used to do comparisons between a first and second value and they evaluate to True or False. 
+
+"<" - if first value is **less than** second value <br />
+">" - if first value is **great than** second value <br />
+"<=" - if first value is **less than or equal to** second value <br />
+">=" - if first value is **greater than or equal to** second value <br />
+"!=" - if values **are not equal**  <br />
+"==" - if values **are equal** <br />
+
+
+**Branching**<br />
 All early knowledge of branching truly just refers to "if" statements.
 
 There are really only three things to know about if statements ("if", "elif", and "else").
