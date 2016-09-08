@@ -4,7 +4,7 @@
 #### Logical Operators (Boolean Logic)<br />
 Main Operators are "<", ">", ">=" "<=", "!=", "=="
 [](TODO: Substring, index in string, string manipulation)
-**Branching** <br/>
+<br />**Branching** <br/>
 All early knowledge of branching truly just refers to "if" statements.
 
 There are really only three things to know about if statements ("if", "elif", and "else").
