@@ -3,7 +3,7 @@
 ## Summary
 #### Logical Operators (Boolean Logic)<br />
 Main Operators are "<", ">", ">=" "<=", "!=", "=="
-
+[](TODO: Substring, index in string, string manipulation)
 **Branching** <br/>
 All early knowledge of branching truly just refers to "if" statements.
 
