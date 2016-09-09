@@ -33,7 +33,7 @@ Example: ```"String abc"```
 [](TODO: Substring, index in string, string manipulation)
 ### Logical Operators (Boolean Logic) & Branching <br/>
 
-**Operators**<br />
+####Operators<br />
 Main Operators are "<", ">", ">=" "<=", "!=", "=="
 
 These operators are used to do comparisons between a first and second value and they evaluate to True or False. 
@@ -46,7 +46,7 @@ These operators are used to do comparisons between a first and second value and 
 - "**==**" - if values **are equal** <br />
 
 <br /><br />
-**Branching**<br />
+####Branching<br />
 All early knowledge of branching truly just refers to "if" statements.
 
 There are really only three things to know about if statements ("if", "elif", and "else").
@@ -141,8 +141,8 @@ else
 We have variable letter set to "x", we check it with our first if statement ```letter == "y"``` and it returns false. We check with our second elif statement ```letter == "a"``` and it returns false. Then finally we land in our catchall "else" which knows because of our previous boolean expressions that the letter is neither a or y so we execute ```print("The letter is not a or y")```.
 
 <br /><br /><br /><br />
-(#anchors in markdown)<br />
-**Loops** 
+
+##Loops
 while/for - numbers, strings/range - range, skipping, reversal 
 
 
