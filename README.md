@@ -1,7 +1,8 @@
 # MITx-6.00.1x_PythonStudy
 
 ## Index
-- [create an anchor](#anchors-in-markdown)
+- [create an anchor](#types)
+- [[Link-name1|#Header1]]
 
 ### Types
 So far we have four types
