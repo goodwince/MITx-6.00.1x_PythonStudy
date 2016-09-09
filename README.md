@@ -6,6 +6,10 @@
 - [Operators (Boolean Expressions)](#operators)
 - [Branching (if, elif, else)](#branching)
 - [Loops](#loops)
+  - [While](#while-loops)
+  - [For](#for-loops)
+
+
 
 ### Types
 So far we have four types
@@ -31,6 +35,7 @@ Example: ```"String abc"```
 - Addition of floats, integers, strings
 
 ### String Manipulation
+(In Progress)
 <br /><br />
 [](TODO: Substring, index in string, string manipulation)
 ### Logical Operators (Boolean Logic) & Branching <br/>
@@ -145,8 +150,9 @@ We have variable letter set to "x", we check it with our first if statement ```l
 <br /><br /><br /><br />
 
 ##Loops
-while/for - numbers, strings/range - range, skipping, reversal 
+TODO: while/for - numbers, strings/range - range, skipping, reversal 
 
+###While Loops
 Loops are an extension of our previous if statement. As in you branch into them when its statement is deemed True. The only difference is we continuously execute the code inside it until the expression becomes False. 
 
 ```
@@ -193,5 +199,6 @@ f
 ```
 Since the loop increments the index each time we get a new letter each time. 
 
-
+###For Loops
+(In Progress)
 
