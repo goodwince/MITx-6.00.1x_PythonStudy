@@ -198,8 +198,52 @@ e - 4
 f - 5
 ```
 
-We check our index to make sure it less than the length of alphabet. Index starts at 0 which means we enter the while loop and print our first letter. Then we increment and continue doing this until ``` index < len(alphabet ``` evaluates to False. Once index becomes 6 it is no longer less than length of alphabet (6) and we stop entering the loop. 
+We check our index to make sure it less than the length of alphabet. Index starts at 0 which means we enter the while loop and print our first letter. Then we increment and continue doing this until ``` index < len(alphabet ``` evaluates to False. Meaning that as long as index is less than 6 we continue looping. Once index becomes 6 we exit and continue on with our program. 
 
 ###For Loops
-(In Progress)
+For loops are slightly more complex while loops. If they're more complex then why introduce them? Well they are slightly more complex, but they make the code extremely more clear. 
+
+To get an understanding of for loops we need to be introduce other method ```range(..)```. Range in what we have currently learned is used mainly on integers. 
+
+```range(5)``` is the same thing as saying ```[0, 1, 2, 3, 4]```
+
+You can have a start and an end.. 
+```range(begin:end)```
+
+```range(3:7)```      ==>    ```[3, 4, 5, 6]```
+```range(4, 10, 2)``` ==>   ```[4, 6, 8]```
+Note that just like string manipulation it truncates before it hits the end which was 7 and stops at 6. 
+range
+
+
+
+How this makes a difference. **While vs. For**
+
+```
+index = 0
+while index < 5
+  print(index)
+  index += 1
+```
+**VS**
+```
+for index in range(5)
+  print(index)
+```
+
+Either program results in the same output
+
+```
+0
+1
+2
+3
+4
+```
+
+
+
+
+
+
 
