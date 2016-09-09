@@ -184,21 +184,21 @@ alphabet = "abcdef"
 index = 0
 while index < len(alphabet):
     letter = alphabet[index]
-    print(letter)
+    print(letter + " - " + index)
     index += 1
 ```
 
 Prints:
 ```
-a
-b
-c
-d
-e
-f
+a - 0
+b - 1
+c - 2
+d - 3
+e - 4
+f - 5
 ```
 
-We check our index to make sure it less than the length of alphabet. Index starts at 0 which means we enter the while loop and print our first letter. Then we increment and continue doing this until ``` index < len(alphabet ``` evaluates to false.
+We check our index to make sure it less than the length of alphabet. Index starts at 0 which means we enter the while loop and print our first letter. Then we increment and continue doing this until ``` index < len(alphabet ``` evaluates to False. 
 
 ###For Loops
 (In Progress)
