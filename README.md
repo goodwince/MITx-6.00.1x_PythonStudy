@@ -16,7 +16,7 @@ So far we have four types
 
 **Booleans** have either a value of ```True``` or ```False```
 
-**Strings** are any character on our keyboard held together by double quotes or single quotes 
+**Strings** are any character on our keyboard held in between a set of quotes (single or double) 
 
 Example: ```"String abc"``` 
 
