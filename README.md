@@ -137,7 +137,7 @@ else
 We have variable letter set to "x", we check it with our first if statement ```letter == "y"``` and it returns false. We check with our second elif statement ```letter == "a"``` and it returns false. Then finally we land in our catchall "else" which knows because of our previous boolean expressions that the letter is neither a or y so we execute ```print("The letter is not a or y")```.
 
 <br /><br /><br /><br />
-(#anchors-in-markdown)
+(#anchors in markdown)<br />
 **Loops** 
 while/for - numbers, strings/range - range, skipping, reversal 
 
