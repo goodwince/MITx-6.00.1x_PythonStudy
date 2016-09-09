@@ -197,7 +197,8 @@ d
 e
 f
 ```
-Since the loop increments the index each time we get a new letter each time. 
+
+We check our index to make sure it less than the length of alphabet. Index starts at 0 which means we enter the while loop and print our first letter. Then we increment and continue doing this until ``` index < len(alphabet ``` evaluates to false.
 
 ###For Loops
 (In Progress)
