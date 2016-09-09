@@ -147,9 +147,51 @@ We have variable letter set to "x", we check it with our first if statement ```l
 ##Loops
 while/for - numbers, strings/range - range, skipping, reversal 
 
+Loops are an extension of our previous if statement. As in you branch into them when its statement is deemed True. The only difference is we continuously execute the code inside it until the expression becomes False. 
 
+```
+while True:
+  print("This code executes infinitely")
+```
 
+The above while loops criteria is True so it will execute ``` print("This code executes infinitely") ``` forever as it will never evaluate to false. 
 
+Example of our infinite loop:
+
+```
+This code executes infinitely
+This code executes infinitely
+This code executes infinitely
+This code executes infinitely
+This code executes infinitely
+This code executes infinitely
+This code executes infinitely
+This code executes infinitely
+This code executes infinitely
+```
+
+To exit we will use ```ctrl+c``` (hitting the ctrl and the c key at the same time). Ctrl+c is used to exit a program early.
+
+Here's a more useful while loop where we traverse a string. 
+```
+alphabet = "abcdef"
+index = 0
+while index < len(alphabet):
+    letter = alphabet[index]
+    print(letter)
+    index += 1
+```
+
+Prints:
+```
+a
+b
+c
+d
+e
+f
+```
+Since the loop increments the index each time we get a new letter each time. 
 
 
 
