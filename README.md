@@ -18,28 +18,29 @@ Example: ```"String abc"```
 **Integers** are numbers just as we learned in math class (-15, 0, 3, 2675, etc)
 
 **Floats** are decimals that we learned in math (0.0, 5.876, -3300.182, etc)
-
+<br /><br />
 ###Math
 - Truncation with integers
 - Division with floats
 - Addition of floats, integers, strings
 
-
+<br /><br />
 [](TODO: Substring, index in string, string manipulation)
 ### Logical Operators (Boolean Logic) & Branching <br/>
 
+**Operators**<br />
 Main Operators are "<", ">", ">=" "<=", "!=", "=="
 
 These operators are used to do comparisons between a first and second value and they evaluate to True or False. 
 
-"<" - if first value is **less than** second value <br />
-">" - if first value is **great than** second value <br />
-"<=" - if first value is **less than or equal to** second value <br />
-">=" - if first value is **greater than or equal to** second value <br />
-"!=" - if values **are not equal**  <br />
-"==" - if values **are equal** <br />
+- "**<**" - if first value is **less than** second value <br />
+- "**>**" - if first value is **great than** second value <br />
+- "**<=**" - if first value is **less than or equal to** second value <br />
+- "**>=**" - if first value is **greater than or equal to** second value <br />
+- "**!=**" - if values **are not equal**  <br />
+- "**==**" - if values **are equal** <br />
 
-
+<br /><br />
 **Branching**<br />
 All early knowledge of branching truly just refers to "if" statements.
 
@@ -134,7 +135,7 @@ else
 ```
 We have variable letter set to "x", we check it with our first if statement ```letter == "y"``` and it returns false. We check with our second elif statement ```letter == "a"``` and it returns false. Then finally we land in our catchall "else" which knows because of our previous boolean expressions that the letter is neither a or y so we execute ```print("The letter is not a or y")```.
 
-
+<br /><br /><br /><br />
 **Loops**
 while/for - numbers, strings/range - range, skipping, reversal 
 
