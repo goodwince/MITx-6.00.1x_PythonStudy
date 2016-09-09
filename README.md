@@ -198,7 +198,7 @@ e - 4
 f - 5
 ```
 
-We check our index to make sure it less than the length of alphabet. Index starts at 0 which means we enter the while loop and print our first letter. Then we increment and continue doing this until ``` index < len(alphabet ``` evaluates to False. 
+We check our index to make sure it less than the length of alphabet. Index starts at 0 which means we enter the while loop and print our first letter. Then we increment and continue doing this until ``` index < len(alphabet ``` evaluates to False. Once index becomes 6 it is no longer less than length of alphabet (6) and we stop entering the loop. 
 
 ###For Loops
 (In Progress)
