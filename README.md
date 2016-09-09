@@ -214,7 +214,7 @@ You can have a start and an end..
 Then we have step which is the amount we will jump over to get the next integer
 ```range(4, 10, 2)``` ==>   ```[4, 6, 8]```
 
-And lastly to have not forgotten reversal. 
+And lastly to have not forgotten reversal. <br />
 ```range(10, 0, -1)``` ==>  ```10, 9, 8, 7, 6, 5, 4, 3, 2, 1```
 
 Note that just like string manipulation it truncates before it hits the end which was 7 and stops at 6. 
