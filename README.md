@@ -1,8 +1,11 @@
 # MITx-6.00.1x_PythonStudy
 
 ## Index
-- [create an anchor](#types)
-- [[Link-name1|#Header1]]
+- [Types](#types)
+- [Math](#math)
+- [Operators (Boolean Expressions)](#operators)
+- [Branching (if, elif, else)](#branching)
+- [Loops](#Loops)
 
 ### Types
 So far we have four types
