@@ -30,7 +30,7 @@ Example: ```"String abc"```
 - Division with floats
 - Addition of floats, integers, strings
 
-## String Manipulation
+### String Manipulation
 <br /><br />
 [](TODO: Substring, index in string, string manipulation)
 ### Logical Operators (Boolean Logic) & Branching <br/>
