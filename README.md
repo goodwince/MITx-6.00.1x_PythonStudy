@@ -5,7 +5,7 @@
 - [Math](#math)
 - [Operators (Boolean Expressions)](#operators)
 - [Branching (if, elif, else)](#branching)
-- [Loops](#Loops)
+- [Loops](#loops)
 
 ### Types
 So far we have four types
@@ -25,10 +25,12 @@ Example: ```"String abc"```
 **Floats** are decimals that we learned in math (0.0, 5.876, -3300.182, etc)
 <br /><br />
 ###Math
+(In Progress)
 - Truncation with integers
 - Division with floats
 - Addition of floats, integers, strings
 
+## String Manipulation
 <br /><br />
 [](TODO: Substring, index in string, string manipulation)
 ### Logical Operators (Boolean Logic) & Branching <br/>
