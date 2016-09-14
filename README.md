@@ -52,8 +52,8 @@ These operators are used to do comparisons between a first and second value and 
 - "**!=**" - if values **are not equal**  <br />
 - "**==**" - if values **are equal** <br />
 <br /><br />
-<b>Smooth Operator</b> 
-And/or operators 
+<b>Smooth Operator</b> <br/>
+And/or operators <br/>
 And means that all expressions anded together must be true
 ```
 exp1 = True
