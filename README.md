@@ -51,6 +51,18 @@ These operators are used to do comparisons between a first and second value and 
 - "**>=**" - if first value is **greater than or equal to** second value <br />
 - "**!=**" - if values **are not equal**  <br />
 - "**==**" - if values **are equal** <br />
+<br /><br />
+<b>Smooth Operator</b> 
+And/or operators 
+And means that all expressions anded together must be true
+```
+exp1 = True
+exp2 = True
+if exp1 and exp2
+  print("Worked")
+```
+
+Will print ```Worked```  because both expression 1 and 2 evalute to true
 
 <br /><br />
 ####Branching<br />
