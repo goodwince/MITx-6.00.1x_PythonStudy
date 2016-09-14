@@ -62,7 +62,14 @@ if exp1 and exp2
   print("Worked")
 ```
 
-Will print ```Worked```  because both expression 1 and 2 evalute to true
+Will print ```Worked```  because both expression 1 and 2 evalute to true. However in the following it does NOT print ```Worked```.
+<br/>
+```
+exp1 = False
+exp2 = True
+if exp1 and exp2
+  print("Worked")
+```
 
 <br /><br />
 ####Branching<br />
