@@ -309,7 +309,7 @@ answer = input("Write yes: ")
 ```
 Inputs are used to take user typed information and put into a string to be used later. In the case above we saved it to variable ```answer```. 
 
-Note: All values are saved as strings. That means it saves spaces typed as well. If you are expecting an integer or float, you must convert it (check type conversion section). 
+Note: All values returned from input are strings. That means if you type a space before your answer it saves the space as part of the answer typed as well. If you are expecting an integer or float, you must convert it to an int or a float, you can view how to do this in the conversion section under types. 
 
 
 
