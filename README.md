@@ -8,6 +8,8 @@
 - [Loops](#loops)
   - [While](#while-loops)
   - [For](#for-loops)
+- Miscellaneous
+  - [Input](#input)
 
 
 
@@ -27,6 +29,41 @@ Example: ```"String abc"```
 **Integers** are numbers just as we learned in math class (-15, 0, 3, 2675, etc)
 
 **Floats** are decimals that we learned in math (0.0, 5.876, -3300.182, etc)
+
+
+### Type Conversion
+<b>Float Conversions</b>
+To convert a string or int to a float
+```
+number = 1
+floatValue = float(number)
+print(floatValue)
+
+floatString = "0.56"
+floatValue2 = float(floatString)
+print(floatValue2 + floatValue)
+```
+
+Above float conversions print ```1.0, 1.56```
+<br/><br />
+<b>Int Conversions<b>
+Converting string and float to Int
+
+```
+floatVariable = 1.46
+intValue = int(floatVariable)
+print(intValue)
+
+string1 = "5"
+string2 = "6"
+
+int1 = int(string1)
+int2 = int(string2)
+
+print(int1 + int2)
+```
+Notice that with the floatVariable it just truncated anything after the decimal and created an integer with everything before the decimal.
+
 <br /><br />
 ###Math
 (In Progress)
