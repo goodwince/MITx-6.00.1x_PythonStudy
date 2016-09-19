@@ -32,7 +32,7 @@ Example: ```"String abc"```
 
 
 ### Type Conversion
-<b>Float Conversions</b>
+<b>Float Conversions</b><br />
 To convert a string or int to a float
 ```
 number = 1
@@ -46,7 +46,7 @@ print(floatValue2 + floatValue)
 
 Above float conversions print ```1.0, 1.56```
 <br/><br />
-<b>Int Conversions<b>
+<b>Int Conversions</b><br/>
 Converting string and float to Int
 
 ```
@@ -302,9 +302,14 @@ Either program results in the same output
 4
 ```
 
+###Miscellaneous
+####Input
+```
+answer = input("Write yes: ")
+```
+Inputs are used to take user typed information and put into a string to be used later. In the case above we saved it to variable ```answer```. 
 
-
-
+Note: All values are saved as strings. That means it saves spaces typed as well. If you are expecting an integer or float, you must convert it (check type conversion section). 
 
 
 
