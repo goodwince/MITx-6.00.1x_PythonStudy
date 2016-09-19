@@ -13,8 +13,8 @@ Console Window:
 Enter a number: 
 ```
 
-Say you type ```5```. The program prints "Incorrect". 
-Say you type ```6```. The program prints "Correct".
+Say you type ```5```. The program prints "Incorrect the number is 6". 
+Say you type ```6```. The program prints "Correct the number is 6".
 
 
 
