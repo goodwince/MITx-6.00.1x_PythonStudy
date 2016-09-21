@@ -1,6 +1,6 @@
 ###The Guessing game Part 1! 
 
-Create a program that has a variable answer and allows user to input a number. If the user inputs the correct number it returns "Correct". If the user guesses incorrectly it prints "Incorrect".
+Create a program that has a variable answer and allows user to input a number. If the user inputs the correct number it returns "Correct". If the user guesses incorrectly it prints "Incorrect". Remember that input returns a string and we want our answer to be an integer.
 
 Code start: 
 ```
