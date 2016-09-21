@@ -23,7 +23,7 @@ Say you type ```6```. The program prints "Correct the number is 6".
 ###Part 1.2
 What fun is a guessing game if you know the number? Now that you've managed to do the above.  For the next portion you are going to do something new. Generating a random number. 
 
-At the top of your code on its own line add. ```import random``` and in place of the "6" write ```random.randint(1,10)```. 
+At the top of your code on its own line add. ```import random``` and in place of the integer 6 write ```random.randint(1,10)```. 
 
 ```random.randint(start, end)``` means generate a random number from start to end. In our case that means a number from 1 to 10. Now run your code!
 
